@@ -1,6 +1,4 @@
 
-
-
 `include "execute_stage.v"
 `include "decode_stage.v"
 `include "fetch.v"
